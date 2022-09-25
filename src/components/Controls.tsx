@@ -1,4 +1,4 @@
 const Controls = () => {
-  return <div>Controls</div>;
+  return <section className="controls">Controls</section>;
 };
 export default Controls;
